@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: smash-ultimate-randomizer
-    runtime: static
-    buildCommand: echo "Static site ready"
-    staticPublishPath: .
-    pullRequestPreviewsEnabled: false
